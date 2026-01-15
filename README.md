@@ -25,5 +25,5 @@ A partir da estrutura base do tutorial oficial, foram implementadas funcionalida
 
 - Python
 - Django
-- SQLite (db.sqlite3 incluído no repositório conforme solicitado no desafio)
+- SQLite 
 
